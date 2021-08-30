@@ -4,5 +4,21 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "project.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheat-commando/ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheat-commando/ci/issues"
+  },
+  "homepage": "https://github.com/cheat-commando/ci#readme",
+  "description": ""
 }
